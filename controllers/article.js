@@ -1,6 +1,5 @@
 const { Article, User } = require("../models");
 const { Op } = require("sequelize");
-const sequelize = require("sequelize");
 
 const defArticle = {
   include: [
@@ -9,6 +8,7 @@ const defArticle = {
       attributes: ["id", "fullName", "asId"],
     },
   ],
+
   attributes: {
     exclude: ["updatedAt", "UserId"],
   },
@@ -30,7 +30,8 @@ exports.index = async (req, res) => {
       where: {
         ...condition,
       },
-      attributes: ["title", "description", "attach", "id"],
+      order: [["createdAt", "DESC"]],
+      attributes: ["title", "description", "attach", "id", "tags"],
     });
     if (result) {
       res.status(200).send({ data: result });

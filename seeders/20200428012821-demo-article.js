@@ -7,6 +7,7 @@ module.exports = {
       [
         {
           title: "Inilah Pilihan Masker untuk Virus Corona",
+          tags: "corona kesehatan",
           description:
             "Sesuai dengan anjuran Kementerian Kesehatan RI, semua orang disarankan untuk memakai masker kain ketika harus bepergian ke luar rumah, misalnya saat harus bekerja atau membeli kebutuhan bulanan. Masker kain tetap dapat menghalau sebagian percikan air liur yang keluar saat berbicara, menghela napas, ataupun batuk dan bersin.",
           attach:
@@ -17,6 +18,7 @@ module.exports = {
         },
         {
           title: "Inilah Pilihan Masker untuk Virus Corona",
+          tags: "corona kesehatan",
           description:
             "Pada remaja usia 13–18 tahun, batas normal tekanan sistoliknya berkisar antara 112–128 mmHg dan diastolik berkisar antara 66–80 mmHg. Variasi tekanan darah di dalam batas normal seorang remaja dapat disebabkan oleh berbagai macam faktor, misalnya tinggi badan, jenis kelamin, dan waktu pengukuran tekanan darah.",
           attach:
@@ -27,6 +29,7 @@ module.exports = {
         },
         {
           title: "Inilah Pilihan Masker untuk Virus Corona",
+          tags: "corona kesehatan",
           description:
             "Sesuai dengan anjuran Kementerian Kesehatan RI, semua orang disarankan untuk memakai masker kain ketika harus bepergian ke luar rumah, misalnya saat harus bekerja atau membeli kebutuhan bulanan. Masker kain tetap dapat menghalau sebagian percikan air liur yang keluar saat berbicara, menghela napas, ataupun batuk dan bersin.",
           attach:
@@ -37,6 +40,7 @@ module.exports = {
         },
         {
           title: "Inilah Pilihan Masker untuk Virus Corona",
+          tags: "corona kesehatan",
           description:
             "Pada remaja usia 13–18 tahun, batas normal tekanan sistoliknya berkisar antara 112–128 mmHg dan diastolik berkisar antara 66–80 mmHg. Variasi tekanan darah di dalam batas normal seorang remaja dapat disebabkan oleh berbagai macam faktor, misalnya tinggi badan, jenis kelamin, dan waktu pengukuran tekanan darah.",
           attach:
@@ -47,6 +51,7 @@ module.exports = {
         },
         {
           title: "Inilah Pilihan Masker untuk Virus Corona",
+          tags: "corona kesehatan",
           description:
             "Sesuai dengan anjuran Kementerian Kesehatan RI, semua orang disarankan untuk memakai masker kain ketika harus bepergian ke luar rumah, misalnya saat harus bekerja atau membeli kebutuhan bulanan. Masker kain tetap dapat menghalau sebagian percikan air liur yang keluar saat berbicara, menghela napas, ataupun batuk dan bersin.",
           attach:
@@ -57,6 +62,7 @@ module.exports = {
         },
         {
           title: "Inilah Pilihan Masker untuk Virus Corona",
+          tags: "corona kesehatan",
           description:
             "Pada remaja usia 13–18 tahun, batas normal tekanan sistoliknya berkisar antara 112–128 mmHg dan diastolik berkisar antara 66–80 mmHg. Variasi tekanan darah di dalam batas normal seorang remaja dapat disebabkan oleh berbagai macam faktor, misalnya tinggi badan, jenis kelamin, dan waktu pengukuran tekanan darah.",
           attach:
@@ -67,6 +73,7 @@ module.exports = {
         },
         {
           title: "Inilah Pilihan Masker untuk Virus Corona",
+          tags: "corona kesehatan",
           description:
             "Sesuai dengan anjuran Kementerian Kesehatan RI, semua orang disarankan untuk memakai masker kain ketika harus bepergian ke luar rumah, misalnya saat harus bekerja atau membeli kebutuhan bulanan. Masker kain tetap dapat menghalau sebagian percikan air liur yang keluar saat berbicara, menghela napas, ataupun batuk dan bersin.",
           attach:
@@ -77,6 +84,7 @@ module.exports = {
         },
         {
           title: "Inilah Pilihan Masker untuk Virus Corona",
+          tags: "corona kesehatan",
           description:
             "Pada remaja usia 13–18 tahun, batas normal tekanan sistoliknya berkisar antara 112–128 mmHg dan diastolik berkisar antara 66–80 mmHg. Variasi tekanan darah di dalam batas normal seorang remaja dapat disebabkan oleh berbagai macam faktor, misalnya tinggi badan, jenis kelamin, dan waktu pengukuran tekanan darah.",
           attach:

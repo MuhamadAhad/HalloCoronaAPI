@@ -3,8 +3,10 @@ const { Consultation, User, Reply } = require("../models");
 exports.index = async (req, res) => {
   try {
     if (req.user.asId === "0") {
+      const condition = req.query.status ? { status: req.query.status } : {};
       const result = await Consultation.findAll({
-        order: [["createdAt", "ASC"]],
+        where: condition,
+        order: [["createdAt", "DESC"]],
         attributes: { exclude: ["UserId"] },
       });
       if (result) {
@@ -38,7 +40,13 @@ exports.index = async (req, res) => {
             ],
           },
         ],
-        attributes: ["subject", "description", "createdAt", "updatedAt"],
+        attributes: [
+          "subject",
+          "description",
+          "createdAt",
+          "updatedAt",
+          "status",
+        ],
       });
       if (result) {
         res.status(200).send({ data: result });

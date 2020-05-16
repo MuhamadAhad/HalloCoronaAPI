@@ -7,6 +7,7 @@ module.exports = (sequelize, DataTypes) => {
       description: DataTypes.TEXT,
       attach: DataTypes.STRING,
       UserId: DataTypes.INTEGER,
+      tags: DataTypes.STRING,
     },
     {}
   );
