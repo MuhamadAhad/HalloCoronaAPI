@@ -9,7 +9,7 @@ module.exports = {
           fullName: "Najla",
           subject: "Pusssiiiiinnnng bangeettt",
           liveConsul: "2020-06-07",
-          Description: "saya sayangat pusing sekali dan mual-mual",
+          description: "saya sayangat pusing sekali dan mual-mual",
           phone: "08983493763",
           bornDate: "1997-05-01",
           age: "25",
@@ -25,7 +25,7 @@ module.exports = {
           fullName: "Maulana",
           subject: "Mumetttt",
           liveConsul: "2020-06-07",
-          Description:
+          description:
             "saya sayangat pusing sekali dan mual-mual, kurang tidur",
           phone: "08983493763",
           bornDate: "1997-05-01",
@@ -42,7 +42,7 @@ module.exports = {
           fullName: "Khabib",
           subject: "Pusssiiiiinnnng",
           liveConsul: "2020-06-07",
-          Description:
+          description:
             "saya sayangat pusing sekali dan mual-mual, kurang makan",
           phone: "08983493763",
           bornDate: "1997-05-01",
@@ -59,7 +59,7 @@ module.exports = {
           fullName: "Irza",
           subject: "Pusssiiiiinnnng",
           liveConsul: "2020-06-07",
-          Description: "saya sayangat pusing sekali dan mual-mual",
+          description: "saya sayangat pusing sekali dan mual-mual",
           phone: "08983493763",
           bornDate: "1997-05-01",
           age: "25",
@@ -75,7 +75,7 @@ module.exports = {
           fullName: "Nafila",
           subject: "Pusssiiiiinnnng syekaaaliiii",
           liveConsul: "2020-06-07",
-          Description: "saya sayangat pusing sekali dan mual-mual",
+          description: "saya sayangat pusing sekali dan mual-mual",
           phone: "08983493763",
           bornDate: "1997-05-01",
           age: "25",
